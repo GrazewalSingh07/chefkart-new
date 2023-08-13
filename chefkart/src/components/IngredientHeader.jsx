@@ -50,7 +50,7 @@ export const IngredientHeader = ({ data, preData }) => {
          className="bg-red-50 top-5 right-0 -z-10 absolute max-sm:h-[250px]  max-sm:w-[250px] w-[450px] h-[450px]"
        ></div>
       <img
-          className="w-[660px] max-sm:w-[260px] z-10 absolute right-0 top-20 overflow-hidden "
+          className="w-[560px] max-sm:w-[260px] z-10 absolute right-0  max-sm:top-20 top-24 overflow-hidden "
           src={veg3}
           alt=""
         />
